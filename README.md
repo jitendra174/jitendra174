@@ -1,114 +1,72 @@
-<!--
-  GitHub Profile README for Jitendra Chinta
-  - Bold headings as requested
-  - Icons (emojis), Shields badges, GitHub stats cards included
-  - Replace any URLs or images as you prefer
--->
+# Hi there 👋, I'm Jitendra Chinta  
 
-<div align="center">
+🎯 **Aspiring Full Stack Developer | MERN • Python • AI/ML • Frontend Development**  
 
-# **JITENDRA CHINTA** 👋  
-**Full-Stack Developer | B.Tech CSE (AI & ML) | Maker of fast, accessible web apps**
-
-[![Website](https://img.shields.io/badge/Portfolio-Visit-0D7377?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-ashy-iota-24.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jitendra-chinta-653172339/)
-[![Mail](https://img.shields.io/badge/Email-jitendrachinta34%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jitendrachinta34@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@jitendra174-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jitendra174)
-
-</div>
+I’m passionate about building **web applications** and **AI-driven solutions** that deliver impact. With hands-on internship experience in **frontend** and **full-stack development**, I love solving problems, optimizing performance, and contributing to innovative projects.  
 
 ---
 
-### **🔥 About Me**
-- I'm a final-year **B.Tech (CSE — AI & ML)** student at *Aditya College of Engineering & Technology* (Class of 2026).  
-- I build modern, responsive, and accessible **web apps** using **React**, **Node.js**, and **Python**. I focus on clean UI, performance, and pragmatic engineering.  
-- I enjoy turning ideas into production-ready projects — from ML prototypes to full MERN deployments.
+### 🔧 Tech Stack  
+
+| **Languages** | **Web Development** |
+|---------------|---------------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=postman&logoColor=white) |
+
+| **Frontend** | **Backend & AI/ML** |
+|--------------|---------------------|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) |
+
+| **Databases** | **Tools & IDEs** |
+|---------------|------------------|
+| ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
 ---
 
-### **🧰 TECH STACK & TOOLS**
-**Languages:** `Python` · `JavaScript` · `HTML` · `CSS`  
-**Frontend:** `React.js` · `Tailwind / CSS` · `Responsive UI`  
-**Backend:** `Node.js (Express)` · `Flask` · `REST APIs`  
-**DB / Infra:** `MongoDB` · `SQL` · `JWT` · `Deployments (Vercel / Render)`  
-**Tools:** `Git` · `GitHub` · `VS Code` · `Postman` · `Docker (basic)`  
+### 📌 Projects  
+- ✍️ **[AI/ML Handwriting Application](https://github.com/jitendra174)**  
+  *Python, PyTorch, TensorFlow, OpenCV, NLP, Flask* – Converted handwritten notes into text with **85% accuracy**, added spell correction (93%) and multilingual translation.  
 
-<!-- Tech badges (quick visual) -->
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+- 🎬 **[Movie App Live Demo](https://net-chill-one.vercel.app/)**  
+  *React.js, JavaScript, TMDB API* – Netflix-like UI with real-time search and previews, increased retention by 30%.  
+
+- 🍴 **[SB Foods Platform](https://sb-foods-frontend.onrender.com/)**  
+  *MERN Stack* – Online food-ordering platform with authentication, admin dashboard, real-time tracking, and payment gateway.  
 
 ---
 
-### **💡 Highlight Projects**
-> Links below point to live demos or repos (live demo links shown when available).
+### 💼 Experience  
+- **Full Stack Developer Intern @ Digital Blinc** *(Jan 2025 – Feb 2025)*  
+  Built an E-Learning Platform covering frontend, backend, APIs, and DB management; optimized schema design for performance.  
 
-- **SB FOODS** — *Online food-ordering platform (MERN)*  
-  Features: secure auth (JWT), admin dashboard, real-time order tracking, mobile-first responsive UI.  
-  Live: https://sb-foods-frontend.onrender.com/ · Tech: **MERN**, JWT, REST APIs
+- **Full Stack Developer Intern @ APSCHE (SmartInternz)** *(May 2025 – Jul 2025)*  
+  Created dashboards with secure authentication and role-based access control for 50+ users, reduced response times by 20%.  
 
-- **AI/ML Handwriting Application** — *Handwriting → digital text*  
-  Features: OCR with autocorrect, multilingual translation, summarization pipeline.  
-  Tech: **Python**, PyTorch, TensorFlow, OpenCV, Flask, REST API
-
-- **Movie App (TMDB)** — *Responsive Netflix-like UI*  
-  Features: dynamic listings, previews, real-time search (TMDB API).  
-  Live: https://net-chill-one.vercel.app/ · Tech: **React.js**, TMDB API
-
-*(See pinned repos on my GitHub for source code.)*
+- **Frontend Developer Intern @ Vault of Codes** *(Jun 2025 – Jul 2025)*  
+  Delivered reusable UI components and improved responsiveness, boosting engagement by 25%.  
 
 ---
 
-### **💼 Experience**
-- **Full Stack Developer Intern** — *Digital Blinc* (Jan 2025 – Feb 2025)  
-  Built an e-learning platform covering front & back ends; optimized DB design and component integration.
+### 🎓 Education  
+- **B.Tech in Computer Science and Engineering (AI & ML)**  
+  Aditya College of Engineering and Technology *(Sep 2022 – Apr 2026)*  
 
-- **Full Stack Developer Intern** — *APSCHE (SmartInternz)* (May 2025 – Jul 2025)  
-  Developed dashboards, role-based auth; optimized APIs to reduce response time.
-
-- **Frontend Developer Intern** — *Vault of Codes* (Jun 2025 – Jul 2025)  
-  Delivered reusable UI components and responsive improvements.
+- **Intermediate (MPC)**  
+  APSW Residential Junior College *(Jun 2020 – Apr 2022)*  
 
 ---
 
-### **🎓 Education**
-**B.Tech — Computer Science & Engineering (AI & ML)**  
-Aditya College of Engineering and Technology — Sep 2022 – Apr 2026
-
-**Intermediate (MPC)** — APSW Residential Junior College — Jun 2020 – Apr 2022
+### 🏆 Achievements  
+- 🥇 **Smart India Hackathon 2024** – Finalist (Top 35 teams out of 150+).  
+- 🏅 **AIDEATHON 2025** – Finalist (Top 50 teams in AI innovation).  
 
 ---
 
-### **🏆 Achievements**
-- Smart India Hackathon 2024 — *Finalist* (Top 35 / 150+ teams)  
-- AIDEATHON 2025 — *Finalist* (Top 50+ teams)
+### 📫 Connect with Me  
+- 📩 **Email:** jitendrachinta34@gmail.com  
+- 🌐 **Portfolio:** [jitendrachinta-portfolio.vercel.app](https://jitendrachinta-portfolio.vercel.app/)  
+- 💼 **LinkedIn:** [linkedin.com/in/jitendra-chinta-653172339](https://linkedin.com/in/jitendra-chinta-653172339)  
+- 🐙 **GitHub:** [github.com/jitendra174](https://github.com/jitendra174)  
 
 ---
 
-### **📫 Contact**
-- Email: jitendrachinta34@gmail.com  
-- Portfolio: https://portfolio-ashy-iota-24.vercel.app/  
-- LinkedIn: https://linkedin.com/in/jitendra-chinta-653172339/  
-- GitHub: https://github.com/jitendra174
-
----
-
-### **📊 GitHub Stats**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jitendra174&show_icons=true&count_private=true&theme=dark&hide_rank=true" alt="Jitendra's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitendra174&layout=compact&theme=dark" alt="Top languages" />
-</div>
-
----
-
-### **✨ Want to collaborate?**
-If you like clean UIs, performance-first web apps or ML prototypes, let's connect — open to internships, freelance projects, and collaborations.
-
----
-
-<sub>Made with ❤️ • **Jitendra Chinta** • Updated: 2025</sub>
+⭐️ *Always learning, building, and exploring new opportunities in tech.*  
